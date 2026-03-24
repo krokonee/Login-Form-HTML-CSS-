@@ -1,4 +1,4 @@
-<p style="color:green"># Login Form Project</p>
+# Login Form Project
 
 A web project with a login form styled using HTML and CSS.
 
